@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SORTING-ALGORITHMS-DOJO", "SORTING-ALGORITHMS-DOJO\SORTING-ALGORITHMS-DOJO.csproj", "{4EB6B914-55FF-4E45-A969-349BE7E0966D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4EB6B914-55FF-4E45-A969-349BE7E0966D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EB6B914-55FF-4E45-A969-349BE7E0966D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EB6B914-55FF-4E45-A969-349BE7E0966D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EB6B914-55FF-4E45-A969-349BE7E0966D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {48B55D9E-02CD-43C3-8B23-EC204E9C849B}
+	EndGlobalSection
+EndGlobal
